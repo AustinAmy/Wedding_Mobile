@@ -6,7 +6,7 @@ var config = {
     alignment: 'left',
     title: 'The Three Best Museums in Austin for an Indoor Wedding',
     byline: 'By Amy Wu',
-    footer: 'Data Sources:</br>The Knot; <a href="https://blantonmuseum.org/2016/01/choosing-the-blanton-museum-for-your-special-day-2/">Blanton Museum of Art</a>; <a href="http://thecontemporaryaustin.org/wp-content/uploads/2019/09/Jones_Center_Site_Rentals_2020.pdf">Jones Center - The Contemporary Austin</a></br> <a href="https://www.thestoryoftexas.com/upload/files/Bullock-Museum-Rental-Rates-2020.pdf">Bullock Texas State History Museum</a>; </br> Mapbox. (2020). Storytelling. <a href ="https://github.com/mapbox/storytelling">Mapbox</a>',
+    footer: 'Data Sources:</br>The Knot; <a href="https://blantonmuseum.org/2016/01/choosing-the-blanton-museum-for-your-special-day-2/">Blanton Museum of Art</a>.(2020).; <a href="http://thecontemporaryaustin.org/wp-content/uploads/2019/09/Jones_Center_Site_Rentals_2020.pdf">Jones Center - The Contemporary Austin</a></br> <a href="https://www.thestoryoftexas.com/upload/files/Bullock-Museum-Rental-Rates-2020.pdf">Bullock Texas State History Museum</a>; </br> Mapbox. (2020). Storytelling. <a href ="https://github.com/mapbox/storytelling">Mapbox</a>',
    
   chapters: [
       
