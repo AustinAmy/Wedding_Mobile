@@ -60,7 +60,7 @@ var config = {
             title: 'Jones Center - The Contemporary Austin',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_Contemporar_yAustin_-_JonesCenter.jpg/220px-The_Contemporar_yAustin_-_JonesCenter.jpg',
             alt: 'Photo of the Jones Center - The Contemporary Austin',
-            description: 'Photo by <a href="https://en.wikipedia.org/wiki/The_Contemporary_Austin">Laguna Jones</a>.</br></br>TThe Jones Center has capacity for 250. Cost starts at $2,900. For more information, call (512) 458-8191 ext. 255.',
+            description: 'Photo by <a href="https://en.wikipedia.org/wiki/The_Contemporary_Austin">Laguna Jones</a>.</br></br>The Jones Center has capacity for 250. Cost starts at $2,900. </br>For more information, call (512) 458-8191 ext. 255.',
             location: {
                 center: [-97.74269, 30.26958],
                 zoom: 17,
@@ -75,7 +75,7 @@ var config = {
               title: 'Bullock Texas State History Museum',
               image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/BobBullockMuseumAustinTX.JPG/220px-BobBullockMuseumAustinTX.JPG',
               alt: 'Photo of the Bullock Texas State History Museum',  
-            description: 'Photo by <a href="https://en.wikipedia.org/wiki/Bullock_Texas_State_History_Museum">WhisperToMe</a>.</br></br>This is the museum that we chose. The Bullock has several floors available for weddings with a capacity for 300. The cost to reserve the ground floor is $4,500. For more information, call (512) 936-4632.',
+            description: 'Photo by <a href="https://en.wikipedia.org/wiki/Bullock_Texas_State_History_Museum">WhisperToMe</a>.</br></br>This is the museum that we chose. The Bullock has several floors available for weddings with a capacity for 300. The cost to reserve the ground floor is $4,500. </br>For more information, call (512) 936-4632.',
               location: {
                   center: [-97.73915, 30.2803],
                   zoom: 17,
